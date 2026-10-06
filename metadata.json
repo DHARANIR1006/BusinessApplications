@@ -1,0 +1,6 @@
+{
+  "name": "Aroha Impact Directory",
+  "description": "Public audit, social return ledger, and ethical institutional procurement marketplace connecting grassroots Indian artisan collectives and SHGs with enterprise buyers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
